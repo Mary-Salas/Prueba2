@@ -1,0 +1,81 @@
+url: "https://quarantinehub.github.io" 
+baseurl: "/"
+
+# Site settings
+title: Quarantine HUB
+email: quarantine.hubmx@gmail.com
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+#stack-overflow
+people:
+- name: José M. Mireles
+  pic: jm.jpeg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: https://twitter.com/JMireles_
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/josemirelesq/
+
+- name: Denise López
+  pic: deni.jpeg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Javier Carrillo
+  pic: javi.jpeg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Gibrán Garibay
+  pic: gibran.jpeg
+  position: Co-founder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Rodolfo Ferro
+  pic: rodo.png
+  position: Lead developer
+  social:
+    - title: twitter
+      url: https://twitter.com/FerroRodolfo/
+    - title: instagram
+      url: https://www.instagram.com/rodo_ferro/
+    - title: github
+      url: https://github.com/RodolfoFerro/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/HubQuarantine
+  - title: facebook
+    url: https://www.facebook.com/Quarantine-HUB-100133491701774/
+  - title: youtube
+    url: https://www.youtube.com/channel/UCxag4nc2fy-kmjblIK47svg/
+  - title: github
+    url: http://github.com/QuarantineHUB
+
+# Build settings
+markdown: kramdown
+permalink: pretty
