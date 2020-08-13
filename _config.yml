@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 #stack-overflow
 people:
 - name: Mario Rosas Otero
-  pic: jm.jpeg
+  pic: Mario.jpeg
   position: Co-founder
   social:
     - title: twitter
@@ -22,7 +22,7 @@ people:
       url: https://www.linkedin.com/in/josemirelesq/
 
 - name: Natalia Sanchez
-  pic: deni.jpeg
+  pic: Natalia.jpeg
   position: Co-founder
   social:
     - title: twitter
@@ -33,7 +33,7 @@ people:
       url: #
 
 - name: Maricarmen Salas
-  pic: javi.jpeg
+  pic: Maricarmen.jpeg
   position: Co-founder
   social:
     - title: twitter
@@ -44,7 +44,7 @@ people:
       url: #
 
 - name: Andrea Garibay
-  pic: gibran.jpeg
+  pic: Andrea.jpeg
   position: Co-founder
   social:
     - title: twitter
