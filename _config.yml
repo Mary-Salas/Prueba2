@@ -10,7 +10,7 @@ description: "Write an awesome description for your new site here. You can edit 
 # Team names, titles and social links
 #stack-overflow
 people:
-- name: José M. Mireles
+- name: Mario Rosas Otero
   pic: jm.jpeg
   position: Co-founder
   social:
@@ -21,7 +21,7 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/josemirelesq/
 
-- name: Denise López
+- name: Natalia Sanchez
   pic: deni.jpeg
   position: Co-founder
   social:
@@ -32,7 +32,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Javier Carrillo
+- name: Maricarmen Salas
   pic: javi.jpeg
   position: Co-founder
   social:
@@ -43,7 +43,7 @@ people:
     - title: google-plus
       url: #
 
-- name: Gibrán Garibay
+- name: Andrea Garibay
   pic: gibran.jpeg
   position: Co-founder
   social:
